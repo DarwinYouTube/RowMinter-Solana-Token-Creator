@@ -43,7 +43,7 @@ Site: https://rowminter.fun
 
 ## Support
 
-For support, please open an issue on the GitHub repository or contact us at support@rowminter.fun.
+For support, please open an issue on the GitHub repository or contact us at admin@rowminter.fun.
 
 ## License
 
