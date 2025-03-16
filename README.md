@@ -3,6 +3,9 @@
 RowMinter is a simple and easy to use Solana token creation platform with a clean and modern interface.<br>
 Site: https://rowminter.fun
 
+![rowminter](https://github.com/user-attachments/assets/a8a2ec72-9e9e-49ac-ad6d-9822de967f80)
+
+
 ## Features
 
 - Easily create Solana tokens
